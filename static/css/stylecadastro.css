@@ -1,0 +1,163 @@
+a {
+color: white;
+}
+
+#linha{
+
+border-color: black;
+margin-top: 8px;
+
+}
+
+#logotipo{
+
+  margin-top: -1%;
+  margin-left: 4%;
+  width: 12%; 
+
+}      
+
+#cadastro{
+
+width: 50%;
+height: 28px;
+align-items: center;
+margin-top: 5%;
+margin-left: 8%;
+text-align: center;
+border-style: solid;
+border-radius: 4px;
+padding: 1.7%;
+font-size: 80%;
+font-style: bold;
+
+
+} 
+
+#home{
+width: 9%;
+align-items: center;
+margin-top: -1%;
+margin-left: 11%;
+text-align: center;
+
+
+}
+
+fieldset {
+
+border: 1.5px solid #000000;
+padding: 10px;
+
+/* controla a distancia entre os elementos e a borda */
+margin: 15px;
+margin-right: 5%;
+margin-left: 5%;
+margin-top: 10%;
+  
+/* margem para alinhar o fieldset com o restante do grid */
+border-radius: 5px;
+
+}
+      
+.inputform{
+
+margin-left: 2%;
+width: 96%;
+border-style: solid;
+border-radius: 4px;
+text-indent: left 15%;
+padding: 0.7% 2%;
+       
+}  
+
+p.insira{
+
+font-size: 14px; 
+text-align: center;
+letter-spacing: 0.2px;
+
+}  
+
+p.grupo{
+
+font-size: 16px;
+text-align: center;
+font-weight: 600;
+
+}  
+
+p.selecione{
+
+font-size: 12px;
+font-weight: bold;
+margin-left: 5%; 
+
+}
+
+fieldset.opcoes{
+
+margin-left: 2%;
+width: 96%;  
+
+}
+
+#valor1{
+
+margin-top: 5%;
+
+}
+
+input.um{
+
+margin-left: 25%; 
+
+}
+
+div.dois{
+
+float: right;
+margin-right: 25%;
+
+}
+
+
+input.tres{
+
+margin-left: 25%;
+margin-top: 7%;
+
+}
+
+div.quatro{
+
+float: right;
+margin-right: 25%;
+margin-top: 5%;
+
+}
+
+ #botao{
+
+width: 30%;
+height: 50px;
+align-items: center;
+margin-top: 10%;
+margin-left: 35%;
+text-align: center;
+border-style: solid;
+border-radius: 7px;
+padding: 1.3%;
+background-color: #3C3A3A;
+
+  }
+
+#linha2{
+
+border-color: none;
+margin-top: 38px;
+
+}
+
+
+

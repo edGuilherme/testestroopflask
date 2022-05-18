@@ -1,0 +1,104 @@
+a {
+color: white;
+}
+
+#linha{
+
+border-color: black;
+margin-top: 8px;
+
+}
+
+#logotipo{
+
+  margin-top: -1%;
+  margin-left: 4%;
+  width: 12%; 
+
+}      
+
+#cadastro{
+
+width: 50%;
+height: 28px;
+align-items: center;
+margin-top: 5%;
+margin-left: 8%;
+text-align: center;
+border-style: solid;
+border-radius: 4px;
+padding: 1.7%;
+font-size: 80%;
+font-style: bold;
+
+} 
+
+#home{
+width: 9%;
+align-items: center;
+margin-top: -1%;
+margin-left: 11%;
+text-align: center;
+
+}
+
+fieldset {
+
+border: 1.5px solid #000000;
+padding: 10px;
+
+/* controla a distancia entre os elementos e a borda */
+margin: 15px;
+margin-right: 5%;
+margin-left: 5%;
+margin-top: 8%;
+  
+/* margem para alinhar o fieldset com o restante do grid */
+border-radius: 5px;
+
+}
+      
+ #botao{
+
+width: 30%;
+height: 50px;
+margin-top: 8%;
+margin-left: 13%;
+text-align: center;
+border-style: solid;
+border-radius: 7px;
+padding: 1.3%;
+background-color: #3C3A3A;
+line-height: 20px;
+
+  }
+
+#linha2{
+
+border-color: none;
+margin-top: 38px;
+
+}
+
+#tempodeintervalo{
+  margin-top: 9%;
+ font-size: 17px;
+ text-align: center;
+}
+
+#informacoes{
+  margin-top: 1%;
+ font-size: 11px;
+ text-align: center;
+}
+
+#relatorio{
+  font-size: 20px;
+  margin-top: 5%;
+  margin-bottom: 4%;
+ text-align: center;
+
+}
+
+
+
